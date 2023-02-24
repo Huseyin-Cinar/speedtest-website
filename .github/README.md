@@ -7,7 +7,7 @@
   <br/>
 </div>
 # Easy Coding Speedtest Website
-**Hi everyone,** in this repository i told _How you using only html, css and js making a speedtest website._ and this will be very easy coding I hope this repo can being handful for you <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px">. 
+**Hi everyone,** in this repository i told _How you using only html, css and js making a speedtest website._ and this will be very easy coding I hope this repo can being handful for you <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px">
 
 ## [Click for example on website](https://futuree.netlify.app/apps/speedtest)
 
