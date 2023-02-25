@@ -16,3 +16,4 @@
 @-webkit-keyframes animatezoom{from {-webkit-transform:scale(0)} to {-webkit-transform:scale(1)}}
 @keyframes animatezoom{from {transform:scale(0)} to {transform:scale(1)}}
 @media screen and (max-width: 300px){span.psw{display:block;float:none;}.cancelbtn{width:100%;}}
+::selection{color:white;background:black;}
