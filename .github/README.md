@@ -16,7 +16,7 @@
 ## [See more repo like this](https://github.com/Huseyin-Cinar?tab=repositories)
 <br><br>
 
- My Social Media Accounts;
+ Author's Media Accounts;
    - Instagram
      - [@huseyinn.cinar](https://instagram.com/huseyinn.cinar)
    - Twitter
