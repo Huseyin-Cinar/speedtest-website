@@ -6,7 +6,7 @@
 ## [Author's Github](https://github.com/Huseyin-Cinar)
 
 ## [See more repo like this](https://github.com/Huseyin-Cinar?tab=repositories)
-<br><br>
+<br><br><br>
 
  Author's Media Accounts;
    - Instagram
