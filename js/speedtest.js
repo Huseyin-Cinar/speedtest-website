@@ -26,7 +26,7 @@ function ShowProgressMessage(msg) {
 }
 
 function InitiateSpeedDetection() {
-    ShowProgressMessage("<br><div class='loader'></div><br><h2>Hızınız ölçülüyor...</h2>");
+    ShowProgressMessage("<br><div class='loader'></div><br><h2>Measuring speed...</h2>");
     window.setTimeout(MeasureConnectionSpeed, 1);
 };    
 
@@ -45,7 +45,7 @@ function MeasureConnectionSpeed() {
     }
     
     download.onerror = function (err, msg) {
-        ShowProgressMessage(`<br><br><br><h1>Bir şeyler ters gitti</h1><br><button class='rety-button' onclick='window.location.reload(false)'>Tekrar dene</button>`);
+        ShowProgressMessage(`<br><br><br><h1>Something went wrong...</h1><br><button class='rety-button' onclick='window.location.reload(false)'>Try again.</button>`);
     }
     
     startTime = (new Date()).getTime();
@@ -65,7 +65,7 @@ function MeasureConnectionSpeed() {
         localStorage.setItem("kbps", speedKbpsn)
         localStorage.setItem("mbps", speedMbpsn)
         ShowProgressMessage([ 
-            `<br><div class='data'><br><br><h1>${speedMbps} Mbps</h1></div><br><br><a style="color:#1f39e7;" href="#" onclick="more()">Daha fazla</a>`
+            `<br><div class='data'><br><br><h1>${speedMbps} Mbps</h1></div><br><br><a style="color:#1f39e7;" href="#" onclick="more()">More</a>`
         ]);
     }
 }
@@ -76,9 +76,9 @@ var kbps = localStorage.getItem("kbps")
 var mbps = localStorage.getItem("mbps")
 
 document.getElementById('stats').style.display = 'block'
-document.getElementById('ilk-h2').innerHTML = `İnternet Hızı (bps): `
-document.getElementById('iki-h2').innerHTML = `İnternet Hızı (Kbps): `
-document.getElementById('son-h2').innerHTML = `İnternet Hızı (Mbps): `    
+document.getElementById('ilk-h2').innerHTML = `Internet speed (bps): `
+document.getElementById('iki-h2').innerHTML = `Internet speed (Kbps): `
+document.getElementById('son-h2').innerHTML = `Internet speed (Mbps): `    
 document.getElementById('ilk-h2').innerHTML += `${bps} Bps`
 document.getElementById('iki-h2').innerHTML += `${kbps} Kbps`
 document.getElementById('son-h2').innerHTML += `${mbps} Mbps`
