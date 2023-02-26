@@ -4,8 +4,8 @@ function thisFunction() {
 document.getElementById('progress').style.marginTop = ((window.innerHeight / 2) / 2) + 'px'    
 }
 
-var imageAddr = "https://i.ibb.co/RgrRwjx/sibersozluk-5mb-speedtest.jpg"; 
-var downloadSize = 4995374;
+var imageAddr = "https://www.manzara.gen.tr/w1/F.-Sultan-Mehmet-K%C3%B6pr%C3%BCs%C3%BC-yak%C4%B1n-%C3%A7ekim.jpg"; 
+var downloadSize = 7665240;
 
 function ShowProgressMessage(msg) {
     if (console) {
