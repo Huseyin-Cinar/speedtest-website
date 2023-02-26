@@ -1,5 +1,5 @@
 ﻿body{background-color:#050620;color:white;}
-.loader{border:16px solid #f3f3f3;border-top:16px solid #050620;border-radius:50%;width:120px;height:120px;animation:spin 1s linear infinite;}
+.loader{border:16px solid #f3f3f3;border-top:16px solid limegreen;border-radius:50%;width:120px;height:120px;animation:spin 1s linear infinite;}
 #button-close{background-color:#1f39e7;color:white;padding:14px 20px;margin:8px 0;border:none;cursor:pointer;width:100%;}
 .data{border:20px solid #1f39e7;border-top:20px solid #1f39e7;border-radius:50%;width:250px;height:250px;}
 @keyframes spin{0% {transform:rotate(0deg);}100% {transform:rotate(360deg);}}
