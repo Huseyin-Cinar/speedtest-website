@@ -16,16 +16,16 @@
 ## [See more repo like this](https://github.com/Huseyin-Cinar?tab=repositories)
 <br><br>
 
- Author's Media Accounts;
-   - Instagram
-     - [@huseyinn.cinar](https://instagram.com/huseyinn.cinar)
-   - Twitter
-     - [@Hseyinn59612876](https://twitter.com/Hseyinn59612876)
-   - Facebook
-     - [@mrbeast](https://facebook.com/mrbeast6000)
-   - Discord
-     - [Black Death#3957](https://discord.com/users/782246367204605953)
-   - Discord Server
-     - [Join](https://futuree.netlify.app/dc)
-   - My Website
-     - [Click](https://futuree.netlify.app)
+***Author's Media Accounts;***
+     - Instagram
+       - [@huseyinn.cinar](https://instagram.com/huseyinn.cinar)
+     - Twitter
+       - [@Hseyinn59612876](https://twitter.com/Hseyinn59612876)
+     - Facebook
+       - [@mrbeast](https://facebook.com/mrbeast6000)
+     - Discord
+       - [Black Death#3957](https://discord.com/users/782246367204605953)
+    - Discord Server
+       - [Join](https://futuree.netlify.app/dc)
+     - My Website
+       - [Click](https://futuree.netlify.app)
