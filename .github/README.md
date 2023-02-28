@@ -4,7 +4,6 @@
     <img src="https://socialify.git.ci/Huseyin-Cinar/Speedtest-Website/image?description=1&font=Raleway&forks=1&issues=1&owner=0&pulls=1&pattern=Solid&stargazers=1&theme=Light">
   </picture>
 </div>
-<br><br>
 
 # Easy Coding Speedtest Website
 **Hi everyone,** in this repository i told _How you using only html, css and js making a speedtest website._ and this will be very easy coding I hope this repo can being handful for you <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px">.
@@ -28,4 +27,4 @@
     - Discord Server
        - [Join](https://futuree.netlify.app/dc)
      - My Website
-       - [Click](https://futuree.netlify.app)
+       - [Click](https://futuree.netlify.app/en)
