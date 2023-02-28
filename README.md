@@ -20,4 +20,4 @@
    - Discord Server
      - [Join](https://futuree.netlify.app/dc)
    - My Website
-     - [Click](https://futuree.netlify.app)
+     - [Click](https://futuree.netlify.app/en)
